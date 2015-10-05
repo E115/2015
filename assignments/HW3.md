@@ -6,23 +6,23 @@ Write a C++ program using variables, if-else and for-loops that asks the user fo
 
 Check+ or more.  Write a program using for loops with less than 3 “cout” statements in your code to print the following pattern:
 
-> *
-> 
-> ***
-> 
-> *****
-> 
-> *******
-> 
-> *********
-> 
-> *********
-> 
-> *******
-> 
-> *****
-> 
-> ***
->
-> *
+```*
+
+***
+
+*****
+
+*******
+
+*********
+
+*********
+
+*******
+
+*****
+
+***
+
+* ```
 
